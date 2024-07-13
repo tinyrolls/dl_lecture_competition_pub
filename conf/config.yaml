@@ -1,0 +1,17 @@
+infer_only: False
+devices: 1
+epochs: 100
+seed: 42
+lr: 0.001
+
+image_model_name: resnet50.a1_in1k
+image_out_dim: 2048
+image_emb_dim: 512
+
+text_model_name: bert-base-uncased
+text_emb_dim: 768
+
+fc_hidden_dim: 512
+
+
+batch_size: 128

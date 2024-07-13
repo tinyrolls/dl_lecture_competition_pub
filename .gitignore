@@ -1,0 +1,10 @@
+data/
+processed/
+wandb/
+saved/
+outputs/
+__pycache__
+.DS_Store
+DL_Matsuo/
+submission.npy
+*.sh*

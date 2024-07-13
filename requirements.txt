@@ -2,3 +2,12 @@ torch
 torchvision
 torchaudio
 pandas
+hydra-core
+torch_geometric
+wandb
+lightning
+timm
+nltk
+transformers
+statistics
+scikit-learn
